@@ -9,6 +9,7 @@ List of eQual packages (official &amp; non-official)
 - [auth](https://github.com/equalframework/apps-core-auth)
 - [sandbox](https://github.com/equalframework/apps-core-sandbox)
 - [symbiose](https://github.com/yesbabylon/symbiose)
+- [wordpress](https://github.com/eQualPress/package-wordpress)
 
 ## Non-Official Packages
 
